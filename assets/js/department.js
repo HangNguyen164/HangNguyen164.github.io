@@ -1,3 +1,0 @@
-function addResident() {
-    $("#fileinput").click();
-}

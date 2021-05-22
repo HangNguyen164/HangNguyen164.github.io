@@ -44,8 +44,7 @@ h6 {
     display: table;
     position: absolute;
     background-color: #f0f3f6;
-    background-size:cover ;
-    background-image: url(https://lh3.googleusercontent.com/proxy/wlcOlO5-bD_oBYlv2gImDYgetHjQZWXlyz0STZhhY-O8OZKtuwzlLqd7QB8lkxPP9iBYAEQqeUaC5F1aCl9ro9jMHMJusoAAD-YnIA=w3840-h2160-p-k-no-nd-mv?fbclid=IwAR0zmBFa7r3SawJZ_T7BQFcOjQ4dPivs6PEiGNxdJb8pt9y26wQFEjtftp8);
+    background-image: url(../../../assets/images/bg-pattern-inverse.png);
 }
 
 #intro .middle {
@@ -65,7 +64,7 @@ h6 {
     padding: 1.5rem 2rem 1rem;
     margin-bottom: 30px;
     border-radius: .2rem;
-    background-color: #5d6c72;
+    background-color: #3bac47;
 }
 
 .logo {
@@ -290,7 +289,7 @@ footer {
     width: 100%;
     position: fixed;
     bottom: 0;
-    background-color: transparent;
+    background-color: #3bac47;
     z-index: 1000;
 }
 
